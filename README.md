@@ -1,1 +1,156 @@
 # BoardMember2
+<!DOCTYPE HTML>
+<html lang="8">
+<head>
+    
+    <meta charset="UTF-8">
+    <title>Board Members</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="temo.css">
+        <script src="https://kit.fontawesome.com/8926df8ee0.js"></script>
+    <link rel="stylesheet" href="stylefooter.css">
+        <script src="https://kit.fontawesome.com/8926df8ee0.js"></script>
+    
+
+        
+
+
+    </head>
+
+
+
+    <body>  
+        
+
+        <section>
+            
+            <div class="heading">
+            <h1>Board of Directors</h1>
+            <span class="section-separator"></span>
+                <p>“A tech-savvy Board sets a right tone for shaping the culture of innovation.”</p>  
+                
+           <br>
+            
+            <div class="heading-right">
+                <a class="active" href="bo.html" style="color: white; font-size: 18px; padding: 10px;">Board Of Directors</a>
+                <a href="index.html" target="_self" style="color: white; font-size: 18px;">Our People</a>
+             </div>
+            </div>
+            
+            
+            <div class="container">
+                <div class="card" style="width: 25rem;" style="height: 30rem;">
+                    <div class="content">
+                        <div class="imgbx"><img src="21.jpg"></div>
+                        <div class="contentBx">
+                            <h3>Chakri<br><span>Chairman</span></h3>
+                        </div> 
+                    </div>
+               <ul class="sci">
+                    <li style="--i:1">
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li style="--i:2">
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </li>     
+                </ul>               
+                </div>
+                <div class="card" style="width: 25rem;" style="height: 30rem;">
+                    <div class="content">
+                        <div class="imgbx"><img src="21.jpg"></div>
+                        <div class="contentBx">
+                            <h3>Pranathi<br><span>Partner</span></h3>
+                        </div> 
+                    </div>
+               <ul class="sci">
+                   <li style="--i:1">
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li style="--i:2">
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </li>     
+                </ul>               
+                </div>
+                <div class="card" style="width: 25rem;" style="height: 30rem;">
+                    <div class="content">
+                        <div class="imgbx"><img src="21.jpg"></div>
+                        <div class="contentBx">
+                            <h3>Sampath Sahukara<br><span>CEO</span></h3>
+                        </div> 
+                    </div>
+               <ul class="sci">
+                   <li style="--i:1">
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li style="--i:2">
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </li>     
+                </ul>               
+                </div>
+                <div class="card" style="width: 25rem;" style="height: 30rem;">
+                    <div class="content">
+                        <div class="imgbx"><img src="21.jpg"></div>
+                        <div class="contentBx">
+                            <h3>Jathin<br><span>Manager</span></h3>
+                        </div> 
+                    </div>
+               <ul class="sci">
+                    <li style="--i:1">
+                    <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    </li>
+                    <li style="--i:2">
+                    <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    </li>     
+                </ul>        
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="row">
+                <div class="col">
+                    <h3>Company<div class="underline"><span></span></div></h3>
+                    <ul>
+                        <li><a href="">About us</a></li>
+                        <li><a href="">Board of Directors</a></li>
+                        <li><a href="">Learner Stories</a></li>
+                        <li><a href="">Jobs</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h3>Resources<div class="underline"><span></span></div></h3>
+                    <ul>
+                        <li><a href="">Learn</a></li>
+                        <li><a href="">Career Paths</a></li>
+                        <li><a href="">Internships</a></li>
+                        <li><a href="">Blogs</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h3>Services<div class="underline"><span></span></div></h3>
+                    <ul>
+                        <li><a href="">Startup Services</a></li>
+                        <li><a href="">Design Services</a></li>
+                        <li><a href="">Mock Interviews</a></li>
+                        <li><a href="">Projects</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <h3>Support<div class="underline"><span></span></div></h3>
+                    <ul>
+                        <li><a href="">Contact Us</a></li>
+                        <li><a href="">Any ideas.DM us</a></li>
+                    </ul>
+                </div>
+                    <div class="social-icons">
+                        <i class="fab fa-facebook-f"></i>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-whatsapp"></i>
+                    </div>
+            </div>
+            <hr>
+        </footer>
+    </body>
+
+    
+</html>
